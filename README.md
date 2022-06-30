@@ -1,6 +1,3 @@
-# rudderstack-community-officehours
-This is the official documents for all information related to our bi-weekly office hours. Here'll you'll find all our upcoming sessions, topics and calendar placeholders. 
-
 # RudderStack Community Office Hours
 
 ## Overview
