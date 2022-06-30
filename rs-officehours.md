@@ -13,8 +13,7 @@ Hello and welcome to the official github repo for our bi-weekly community office
 | 🔗 Meeting Link | **Zoom Call:** https://bit.ly
 | 📝 Meeting Presentations | (Will be posted here when we have them)
 | 🎥 Meeting Recordings | (Will be posted here when we have them)
-| :calendar: Calendar invite | [Download](https://1drv.ms/u/s!AijpyBD4mDldb1Gt9Xbe5N_taLg)
-
+| :calendar: Calendar invite | [Download]
 ## Schedule 
 
 **2022 Upcoming Meetings**:
