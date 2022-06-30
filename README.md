@@ -3,8 +3,8 @@
 ## Overview
 Hello and welcome to the official github repo for our bi-weekly community office hours. In those sessions, we will be covering a few things:
 - Introductions and some product updates
-- Tech talk/demo: Here we will explore a RudderStack feature and go over some questions and use cases (topic TBD)
-- Q&A/Feedback 
+- Tech talk/demo: Here we will explore a RudderStack feature and go over some questions and use cases (topic TBD and will be based on community feedback)
+- Q&A/Feedback: Ask us anything related to RudderStack and also feel free to share any feedback you have. 
 
 ## Meeting links and recordings 
 
