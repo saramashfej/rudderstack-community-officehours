@@ -16,12 +16,12 @@ Hello and welcome to the official github repo for our bi-weekly community office
 | 🔗 Meeting Link | **Zoom Call:** https://bit.ly
 | 📝 Meeting Presentations | (Will be posted here when we have them)
 | 🎥 Meeting Recordings | (Will be posted here when we have them)
-| :calendar: Calendar invite | [Download]
+| :calendar: Calendar invite | [Calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHYwNzVsOTRqYzJtZDJuY2hkODBsdDRjbGsgc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
 ## Schedule 
 
 **2022 Upcoming Meetings**:
-- **First session:** July 17th 11 am Central Time (EST) - Tracking plans in RudderStack 
+- **FIRST KICK OFF SESSION:** July 18th 11 am Eastern Time (EST) - Tracking plans in RudderStack 
 
 ## Find us on Slack
 
-Please post any questions you have on our slack community channel! We will be posting everything event related in #office-hours
+Please join our slack community if you haven't already and post any questions there! We will be posting everything related to this event in in #community-office-hours.
