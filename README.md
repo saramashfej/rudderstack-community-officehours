@@ -6,6 +6,8 @@ Hello and welcome to the official github repo for our bi-weekly community office
 - Tech talk/demo: Here we will explore a RudderStack feature and go over some questions and use cases (topic TBD and will be based on community feedback)
 - Q&A/Feedback: Ask us anything related to RudderStack and also feel free to share any feedback you have. 
 
+We will also share here any demos or code samples that will be discussed during our talks.
+
 ## Meeting links and recordings 
 
 | Asset | Link        |
