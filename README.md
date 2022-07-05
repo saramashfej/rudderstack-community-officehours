@@ -20,4 +20,4 @@ Hello and welcome to the official github repo for our bi-weekly community office
 
 ## Find us on Slack
 
-Please join our slack community if you haven't already and post any questions there! We will be posting everything related to this event in in #community-office-hours.
+Please join our slack community if you haven't already and post any questions there! We will be posting everything related to this event in in #community-office-hour.
