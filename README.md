@@ -22,4 +22,4 @@ We will also share here any demos or code samples that will be discussed during 
 
 ## Find us on Slack
 
-Please join our slack community if you haven't already and post any questions there! We will be posting everything related to this event in in #community-office-hour channel.
+Please join our slack community if you haven't already and post any questions there! We will be posting everything related to this event in the #community-office-hour channel.
