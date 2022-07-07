@@ -12,7 +12,7 @@ We will also share here any demos or code samples that will be discussed during 
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link | **Zoom Call:** bit.ly/join-office-hour
+| 🔗 Meeting Link | **Zoom Call:**  Join here(bit.ly/join-office-hour)
 | 📝 Meeting Presentations | (Will be posted here when we have them)
 | 🎥 Meeting Recordings | (Will be posted here when we have them)
 | :calendar: Calendar invite | [Download calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHYwNzVsOTRqYzJtZDJuY2hkODBsdDRjbGsgc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
