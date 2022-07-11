@@ -18,7 +18,10 @@ We will also share here any demos or code samples that will be discussed during 
 | :calendar: Calendar invite | [Download calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnNpN2R1djRia29xa205Z2JybzhqaWdjODggc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
 ## Schedule 
 
-- **FIRST KICK OFF SESSION:** July 18th 11 am Eastern Time (EST) - Tracking plans in RudderStack 
+- **KICK OFF SESSION:** July 18th 11 am Eastern Time (EST) - Tracking plans in RudderStack 
+- August 5th: Topic TBD
+- August 19th: Topic TBD
+- September 2nd: Topic TBD
 
 ## Find us on Slack
 
