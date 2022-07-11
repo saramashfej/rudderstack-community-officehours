@@ -12,7 +12,7 @@ We will also share here any demos or code samples that will be discussed during 
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link | **Zoom Call:**  [Join here](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHYwNzVsOTRqYzJtZDJuY2hkODBsdDRjbGsgc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
+| 🔗 Meeting Link | **Zoom Call:**  [Join here](https://us02web.zoom.us/j/88571639530?pwd=ei9hY04rOWcyd3lZVWozUDlLeHIyUT09)
 | 📝 Meeting Presentations | (Will be posted here when we have them)
 | 🎥 Meeting Recordings | (Will be posted here when we have them)
 | :calendar: Calendar invite | [Download calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnNpN2R1djRia29xa205Z2JybzhqaWdjODggc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
