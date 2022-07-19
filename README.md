@@ -6,15 +6,15 @@ Hello and welcome to the official github repo for our bi-weekly community office
 - Tech talk/demo: Here we will explore a RudderStack feature and go over some questions and use cases.
 - Q&A/Feedback: Ask us anything related to RudderStack and also feel free to share any feedback you have. 
 
-We will also share here any demos or code samples that will be discussed during our talks.
+We will also share here any demos or code samples that will be discussed during our talks. 
 
 ## Meeting links and recordings 
 
 | Asset | Link        |
 |:-----------|:------------|
 | 🔗 Meeting Link | **Zoom Call:**  [Join here](https://us02web.zoom.us/j/88571639530?pwd=ei9hY04rOWcyd3lZVWozUDlLeHIyUT09)
-| 📝 Meeting Presentations | (Will be posted here when we have them)
-| 🎥 Meeting Recordings | [YouTube] (https://www.youtube.com/watch?v=AlxKlA3eMzY)
+| 📝 Meeting Presentations | [Google Doc](https://docs.google.com/presentation/d/1ebdURxLDEi_W8YU3OBpuf752jDWlMiaEXzljBHXyL78/edit?usp=sharing)
+| 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/watch?v=AlxKlA3eMzY)
 | :calendar: Calendar invite | [Download calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnNpN2R1djRia29xa205Z2JybzhqaWdjODggc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
 ## Schedule 
 
