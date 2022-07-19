@@ -13,8 +13,8 @@ We will also share here any demos or code samples that will be discussed during 
 | Asset | Link        |
 |:-----------|:------------|
 | 🔗 Meeting Link | **Zoom Call:**  [Join here](https://us02web.zoom.us/j/88571639530?pwd=ei9hY04rOWcyd3lZVWozUDlLeHIyUT09)
-| 📝 Meeting Presentations | [Google Doc](https://docs.google.com/presentation/d/1ebdURxLDEi_W8YU3OBpuf752jDWlMiaEXzljBHXyL78/edit?usp=sharing)
-| 🎥 Meeting Recordings | [YouTube](https://www.youtube.com/watch?v=AlxKlA3eMzY)
+| 📝 Meeting Presentations | [Slides](https://docs.google.com/presentation/d/1ebdURxLDEi_W8YU3OBpuf752jDWlMiaEXzljBHXyL78/edit?usp=sharing)
+| 🎥 Meeting Recordings | [Recording](https://www.youtube.com/watch?v=AlxKlA3eMzY)
 | :calendar: Calendar invite | [Download calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnNpN2R1djRia29xa205Z2JybzhqaWdjODggc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
 ## Schedule 
 
