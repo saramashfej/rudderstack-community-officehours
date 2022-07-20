@@ -19,9 +19,9 @@ We will also share here any demos or code samples that will be discussed during 
 ## Schedule 
 
 - **KICK OFF SESSION:** July 18th 11 am Eastern Time (EST) - Tracking plans in RudderStack 
-- August 5th: Topic TBD
-- August 19th: Topic TBD
-- September 2nd: Topic TBD
+- August 3rd: Topic TBD
+- August 17th: Topic TBD
+- August 31: Topic TBD
 
 ## Find us on Slack
 
