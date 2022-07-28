@@ -19,7 +19,7 @@ We will also share here any demos or code samples that will be discussed during 
 ## Schedule 
 
 - **KICK OFF SESSION:** July 18th 11 am Eastern Time (EST) - Tracking plans in RudderStack 
-- August 3rd 11 am Eastern TIme (EST): Data Ativation with Reverse-ETL 
+- August 3rd 11 am Eastern TIme (EST): Data Activation with Reverse-ETL 
 - August 17th: Topic TBD
 - August 31: Topic TBD
 
