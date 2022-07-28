@@ -12,10 +12,10 @@ We will also share here any demos or code samples that will be discussed during 
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link | **Zoom Call:**  [Join here](https://us02web.zoom.us/j/88571639530?pwd=ei9hY04rOWcyd3lZVWozUDlLeHIyUT09)
-| 📝 Meeting Presentations | [Slides](https://docs.google.com/presentation/d/1ebdURxLDEi_W8YU3OBpuf752jDWlMiaEXzljBHXyL78/edit?usp=sharing)
-| 🎥 Meeting Recordings | [Recording](https://www.youtube.com/watch?v=AlxKlA3eMzY)
-| :calendar: Calendar invite | [Download calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnNpN2R1djRia29xa205Z2JybzhqaWdjODggc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
+| 🔗 Meeting Link | **Zoom Call:**  [Join here](https://us02web.zoom.us/j/86794064244?pwd=SWs2QU5YUThibGFQdFEwKzEzRkxKQT09)
+| 📝 Meeting Presentations (previous) | [Slides](https://docs.google.com/presentation/d/1ebdURxLDEi_W8YU3OBpuf752jDWlMiaEXzljBHXyL78/edit?usp=sharing)
+| 🎥 Meeting Recordings (previous) | [Recording](https://www.youtube.com/watch?v=AlxKlA3eMzY)
+| :calendar: Calendar invite | [Download calendar invite here](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDI3dDlrbW1zOWk0cmhmMTk0YzJsOTd1MnMgc21hc2hmZWpAcnVkZGVyc3RhY2suY29t&tmsrc=smashfej%40rudderstack.com)
 ## Schedule 
 
 - **KICK OFF SESSION:** July 18th 11 am Eastern Time (EST) - Tracking plans in RudderStack 
